@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "type": "module",
   "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+ "scripts": {
+    "start": "PORT=3401 node ./src/index.js",
+    "dev": "set PORT=3401 && nodemon ./src/index.js",
+    "format": "prettier --write ."
   },
   "dependencies": {
     "body-parser": "^1.20.3",
