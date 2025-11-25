@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone Samsung Galaxy S24 Ultra",
+    "price": 4499.00,
+    "description": "Smartphone Samsung Galaxy S24 Ultra, Galaxy AI, Selfie de 12MP, Tela de 6.8'' 1-120Hz, 256GB, 12GB RAM - Titânio Violeta",
+    "image": "https://m.media-amazon.com/images/I/410+-He2CQL._MCnd_AC_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Book4 Ultra Intel® Core™ Ultra 9 185H",
+    "price": 12699.00,
+    "description": "Samsung Galaxy Book4 Ultra Intel® Core™ Ultra 9 185H, Windows 11 Home, 32GB, 1TB SSD, 16'' WQXGA+ AMOLED 2x, 1.86 kg*",
+    "image": "https://m.media-amazon.com/images/I/513TNQHSPAL._AC_SY355_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy Buds3 Pro, Fone de Ouvido sem fi",
+    "price": 1169.10,
+    "description": "Samsung Galaxy Buds3 Pro, Fone de Ouvido sem fio, Cancelamento de Ruído Inteligente, Galaxy AI - Cinza",
+    "image": "https://m.media-amazon.com/images/I/41JRNFgikUL._AC_SX522_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy Watch7 Smartwatch 44mm Bluetooth",
+    "price": 1299.00,
+    "description": "Samsung Galaxy Watch7 Smartwatch 44mm Bluetooth, Galaxy AI, Tela em Cristal de Safira, GPS de Dupla Frequência, Monitoramento avançado de saúde, sono e de coração, Processador de 3nm - Prata",
+    "image": "https://m.media-amazon.com/images/I/51GRl5sBhjL._AC_SX466_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Monitor Samsung 4K UHD de 32''",
+    "price": 399.99,
+    "description": "Monitor Samsung 4K UHD de 32 polegadas (LU32J590UQNXZA), Cinza escuro",
+    "image": "https://m.media-amazon.com/images/I/81tizzS173L._AC_SX522_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Teclado sem fio Logitech MX Keys Mini",
+    "price": 588.06,
+    "description": "Teclado sem fio Logitech MX Keys Mini com Iluminação Inteligente, Conexão USB ou Bluetooth Easy-Switch para até 3 dispositivos e Bateria Recarregável - Grafite",
+    "image": "https://m.media-amazon.com/images/I/71zMNFAsOnL._AC_SX522_.jpg"
+  }
+]

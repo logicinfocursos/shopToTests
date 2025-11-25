@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1764090701428,
+    "date": "2025-11-25T17:11:41.428Z",
+    "customer": {
+      "name": "Anselmo Lucas",
+      "email": "anselmo@mail.com",
+      "address": "Rua das casas",
+      "city": "SP",
+      "zip": "1213134"
+    },
+    "items": [
+      {
+        "id": 4,
+        "name": "Smart Watch",
+        "price": 299.99,
+        "description": "Track your fitness and notifications.",
+        "image": "https://placehold.co/300x300?text=Watch",
+        "quantity": 1
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1764090848132,
+    "date": "2025-11-25T17:14:08.133Z",
+    "customer": {
+      "name": "Anselmo Lucas",
+      "email": "anselmo@mail.com",
+      "address": "Rua das casas",
+      "city": "SP",
+      "zip": "14523515"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Smartphone X",
+        "price": 999.99,
+        "description": "Latest model with high-res camera.",
+        "image": "https://placehold.co/300x300?text=Phone",
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "name": "Laptop Pro",
+        "price": 1499.99,
+        "description": "Powerful laptop for professionals.",
+        "image": "https://placehold.co/300x300?text=Laptop",
+        "quantity": 1
+      }
+    ],
+    "status": "pending"
+  }
+]
