@@ -4,11 +4,22 @@ projeto de testes (testar o kafka e outras tecnologias)
 <br/>
 
 para executar:
-
+backend - api
 ```bash
 cd backend
+yarn
 yarn dev
-<br/>
+
+```
+frontend
+```bash
 cd ../frontend
+yarn
 yarn dev
+
+```
+no navegador: 
+
+```bash
+http://localhost:3400
 ```
